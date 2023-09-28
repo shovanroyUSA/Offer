@@ -40,6 +40,7 @@ axios.get(amazonProductURL).then((response) => {
   console.error('Error:', error);
 });
 
+
 **Step 3: Create an Express.js API**
 
 Set up an Express.js API with a route that triggers the Amazon scraper and returns the discount data.
