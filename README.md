@@ -1,4 +1,4 @@
-# Offer
+# Offers
 Lets Create an API that helps users find discounts on Amazon and then serves this data through text message to a specified number
 
 Creating an API to find discounts on Amazon and sending the data via text message involves several steps and technologies. Below is a high-level overview of how you can achieve this:
